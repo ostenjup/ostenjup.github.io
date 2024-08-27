@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ostenjup.github.io/sitemap.html.gz
+Sitemap: https://ostenjup.github.io/app/sitemap.html.gz
+Sitemap: https://ostenjup.github.io/assets/sitemap.html.gz
+Sitemap: https://ostenjup.github.io/css/sitemap.html.gz
+Sitemap: https://ostenjup.github.io/includes/sitemap.html.gz
+Sitemap: https://ostenjup.github.io/item/sitemap.html.gz
+Sitemap: https://ostenjup.github.io/src/sitemap.html.gz
